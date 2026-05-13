@@ -999,3 +999,21 @@ They avoid general language syntax and instead emphasize product work, architect
 975. Tauri for lightweight desktop app development: maintenance note 975 focusing on observability, crash reporting, and long-term evolution.
 976. Tauri for lightweight desktop app development: maintenance note 976 focusing on observability, crash reporting, and long-term evolution.
 1000. Tauri: final app-development note on app lifecycle, release quality, and long-term maintenance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
